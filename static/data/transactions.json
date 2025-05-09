@@ -1,0 +1,120 @@
+[
+  {
+    "username": "Tom",
+    "transactions": [
+      {
+        "id": "3a20eebb-ee96-4f65-9af6-0581b2f58575",
+        "categoryId": "adba8de3-c27a-4e2c-af21-e56742d99039",
+        "amount": 20,
+        "date": "2025-05-09T07:31:10.260Z"
+      },
+      {
+        "id": "43601535-f79f-4f69-bc5f-ed335a45c017",
+        "categoryId": "b426ffbb-a28d-4b1d-bad7-e782018e4570",
+        "amount": 500,
+        "date": "2025-05-09T07:50:21.193Z"
+      },
+      {
+        "id": "9ef4d061-997f-4a09-a38f-5345f74afbfc",
+        "categoryId": "adba8de3-c27a-4e2c-af21-e56742d99039",
+        "amount": 44,
+        "date": "2025-05-09T07:53:13.138Z"
+      },
+      {
+        "id": "6d451543-545e-4b64-ae4d-52675eab1abc",
+        "categoryId": "b426ffbb-a28d-4b1d-bad7-e782018e4570",
+        "amount": 5,
+        "date": "2025-05-09T07:53:19.571Z"
+      },
+      {
+        "id": "52b8643a-b4d6-4d29-a75e-8e10e540c571",
+        "categoryId": "b426ffbb-a28d-4b1d-bad7-e782018e4570",
+        "amount": 4,
+        "date": "2025-05-09T08:03:23.350Z"
+      },
+      {
+        "id": "0c055626-dc52-4635-af6f-66a0f8a07c55",
+        "categoryId": "adba8de3-c27a-4e2c-af21-e56742d99039",
+        "amount": 44,
+        "date": "2025-05-09T08:05:26.269Z"
+      },
+      {
+        "id": "5233d288-8b81-4bda-96f4-8f546f101876",
+        "categoryId": "00ded657-f0d2-4ab4-905e-0cabfee8ac43",
+        "amount": 20,
+        "date": "2025-05-09T08:11:53.519Z"
+      },
+      {
+        "id": "8aded60b-86a0-4e76-9ddf-a66c1d162e8e",
+        "categoryId": "284b988e-2895-4506-9033-1952bc9bb8f6",
+        "amount": 5,
+        "date": "2025-05-09T08:19:14.611Z"
+      },
+      {
+        "id": "b2741eba-dd48-4a12-92a5-17a9c5d34638",
+        "categoryId": "a2214c50-079e-4451-94ca-f51eb9558321",
+        "amount": 20,
+        "date": "2025-05-09T08:24:02.615Z"
+      },
+      {
+        "id": "9c8edfbf-0e9f-4560-b798-0bbd2c3bd698",
+        "categoryId": "b1c9ee62-741f-498b-994f-205986dd22e5",
+        "amount": 10,
+        "date": "2025-05-09T09:41:28.043Z"
+      },
+      {
+        "id": "4c0ea6b5-2cfc-44b0-9f93-0bd3a9b5db5b",
+        "categoryId": "b1c9ee62-741f-498b-994f-205986dd22e5",
+        "amount": 20,
+        "date": "2025-05-09T12:26:04.795Z"
+      },
+      {
+        "id": "1a9681ba-c1b2-42d1-9607-6813122c2ebf",
+        "categoryId": "85877d5b-98fd-4cd6-b373-a26dece4beb7",
+        "amount": 40,
+        "date": "2025-05-09T14:06:06.604Z"
+      },
+      {
+        "id": "b2d32303-3144-4f3e-86d2-921bc1ae5c22",
+        "categoryId": "f5f71053-9e1b-48aa-a189-b1b203a2e875",
+        "amount": 54,
+        "date": "2025-05-09T14:53:59.565Z"
+      },
+      {
+        "id": "51e0218f-235f-4923-a227-7ddd4a59d783",
+        "categoryId": "f5f71053-9e1b-48aa-a189-b1b203a2e875",
+        "amount": 500,
+        "date": "2025-05-09T14:54:07.559Z"
+      },
+      {
+        "id": "2df6a96e-f7c2-4cba-a0cf-d0f53c74cf6d",
+        "categoryId": "284b988e-2895-4506-9033-1952bc9bb8f6",
+        "amount": 4,
+        "date": "2025-05-09T15:38:45.354Z"
+      }
+    ]
+  },
+  {
+    "username": "Lory",
+    "transactions": [
+      {
+        "id": "890bb230-f13e-4a25-b6eb-80ce3c17896d",
+        "categoryId": "a1c4775e-4ab0-40cf-995e-bbe57a1cd60e",
+        "amount": 120,
+        "date": "2025-05-09T17:55:43.936Z"
+      },
+      {
+        "id": "b0c4f3f1-7c45-4d49-b1a4-11f1e7fadbb9",
+        "categoryId": "cc1acd01-2870-409b-af01-6589caabdcfc",
+        "amount": 200,
+        "date": "2025-05-09T17:55:54.140Z"
+      },
+      {
+        "id": "d06f2c61-7cee-43c1-92e4-f8c6a253fd29",
+        "categoryId": "a1c4775e-4ab0-40cf-995e-bbe57a1cd60e",
+        "amount": 200,
+        "date": "2025-05-09T18:00:31.899Z"
+      }
+    ]
+  }
+]

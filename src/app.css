@@ -1,0 +1,68 @@
+:root {
+    --primary: #72bdbd;
+    --accent: #f7a072;
+    --bg-light: #fefefc;
+    --bg-card: #ffffff;
+    --text-main: #333;
+    --text-muted: #666;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    --radius: 12px;
+    --max-width: 900px;
+    --gap: 1.5rem;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", "Segoe UI", sans-serif;
+    background-color: var(--bg-light);
+    color: var(--text-main);
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    color: var(--primary);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+a {
+
+    color: var(--accent);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="password"] {
+    width: 100%;
+    max-width: 300px;
+    padding: 0.6rem;
+    border: 1px solid #ddd;
+    border-radius: var(--radius);
+    margin: 0.5rem 0 1rem;
+    font-size: 1rem;
+}
+
+
+button {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #5cae8b;
+}
+
+
+
+

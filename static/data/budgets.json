@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Tom",
+    "categories": [
+      {
+        "id": "284b988e-2895-4506-9033-1952bc9bb8f6",
+        "name": "extra",
+        "limit": 50,
+        "spent": 9
+      },
+      {
+        "id": "a2214c50-079e-4451-94ca-f51eb9558321",
+        "name": "car",
+        "limit": 20,
+        "spent": 20
+      },
+      {
+        "id": "b1c9ee62-741f-498b-994f-205986dd22e5",
+        "name": "birthday",
+        "limit": 30,
+        "spent": 30
+      },
+      {
+        "id": "f5f71053-9e1b-48aa-a189-b1b203a2e875",
+        "name": "rent",
+        "limit": 500,
+        "spent": 554
+      }
+    ]
+  },
+  {
+    "username": "Lory",
+    "categories": []
+  }
+]
