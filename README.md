@@ -168,8 +168,8 @@ To set up this project locally on your machine:
 2. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Omaima43/personal-finance-tracker.git
+   cd personal-finance-tracker
 3. **Install dependencies**
 
    ```bash
